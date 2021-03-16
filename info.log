@@ -1,0 +1,42 @@
+{"message":"Unauthorized request to path: /folder","level":"error"}
+{"message":"Unauthorized request to path: /folder","level":"error"}
+{"message":"undefined is required","level":"error"}
+{"message":"undefined is required","level":"error"}
+{"message":"Phoenix is required","level":"error"}
+{"message":"name is required","level":"error"}
+{"message":"folder_name is required","level":"error"}
+{"message":"Invalid folder name 'undefined' supplied","level":"error"}
+{"message":"Invalid folder name 'undefined' supplied","level":"error"}
+{"message":"Folder with id 8 created.","level":"info"}
+{"message":"name is required","level":"error"}
+{"message":"Invalid folder name 'Pegasus' supplied","level":"error"}
+{"message":"folder_name is required","level":"error"}
+{"message":"Folder with id 9 created.","level":"info"}
+{"message":"Invalid folder name 'Pegasus' supplied","level":"error"}
+{"message":"Folder with id 7 created.","level":"info"}
+{"message":"Folder with id 8 created.","level":"info"}
+{"message":"Invalid note name 'undefined' supplied","level":"error"}
+{"message":"Invalid note name 'undefined' supplied","level":"error"}
+{"message":"Invalid note name 'undefined' supplied","level":"error"}
+{"message":"Invalid note name 'undefined' supplied","level":"error"}
+{"message":"folder is required","level":"error"}
+{"message":"Invalid note name 'undefined' supplied","level":"error"}
+{"message":"Note with id 8 created.","level":"info"}
+{"message":"Folder with id 5 not found.","level":"error"}
+{"message":"Folder with id 8 deleted.","level":"info"}
+{"message":"Folder with id 8 not found.","level":"error"}
+{"message":"Folder with id 9 created.","level":"info"}
+{"message":"Folder with id 10 created.","level":"info"}
+{"message":"Folder with id 10 deleted.","level":"info"}
+{"message":"Folder with id 10 not found.","level":"error"}
+{"message":"Note with id 5 deleted.","level":"info"}
+{"message":"Note with id 5 not found.","level":"error"}
+{"message":"Note with id 5 not found.","level":"error"}
+{"message":"Note with id 8 deleted.","level":"info"}
+{"message":"Folder with id 10 not found.","level":"error"}
+{"message":"Note with id 5 not found.","level":"error"}
+{"message":"Invalid note name 'undefined' supplied","level":"error"}
+{"message":"Note with id 6 deleted.","level":"info"}
+{"message":"modified is required","level":"error"}
+{"message":"Folder with id 11 created.","level":"info"}
+{"message":"modified is required","level":"error"}
