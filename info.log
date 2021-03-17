@@ -40,3 +40,4 @@
 {"message":"modified is required","level":"error"}
 {"message":"Folder with id 11 created.","level":"info"}
 {"message":"modified is required","level":"error"}
+{"message":"Note with id 8 not found.","level":"error"}
