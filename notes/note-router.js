@@ -13,7 +13,7 @@ serializeNotes = note => ({
     name: xss(note.name),
     modified: note.modified,
     content: xss(note.content),
-    folderId: note.folder
+    folder: note.folder
 })
 
 noteRouter
@@ -29,8 +29,8 @@ noteRouter
 
 
   .post(bodyParser, (req, res, next) => {
-    const { name, modified, content, folder } = req.body
-    const newNote = { name, modified, content, folder }
+    const { name,  content, folder } = req.body
+    const newNote = { name, content, folder }
 
     for (const [key, value] of Object.entries(newNote)) {
       if (value == null) {

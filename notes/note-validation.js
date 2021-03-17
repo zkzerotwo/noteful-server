@@ -23,16 +23,16 @@ function getNoteValidationError(note) {
     }
   }
 //TODO: add validation for valid folder id
-  if (typeof note.folder !== 'number' 
+//   if (typeof note.folder !== 'number' 
 //   || note.folderId > folders.length?
-  ) {
-    logger.error(`Invalid note name '${note.folder}' supplied`)
-    return {
-      error: {
-        message: `'note.folderId' must be a valid number`
-      }
-    }
-  }
+//   ) {
+//     logger.error(`Invalid note folder '${note.folder}' supplied`)
+//     return {
+//       error: {
+//         message: `'note.folderId' must be a valid number`
+//       }
+//     }
+//   }
 
 
   // if (url && !isWebUri(url)) {

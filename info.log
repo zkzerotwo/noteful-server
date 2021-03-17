@@ -41,3 +41,17 @@
 {"message":"Folder with id 11 created.","level":"info"}
 {"message":"modified is required","level":"error"}
 {"message":"Note with id 8 not found.","level":"error"}
+{"message":"folder is required","level":"error"}
+{"message":"folder is required","level":"error"}
+{"message":"folder is required","level":"error"}
+{"message":"folder is required","level":"error"}
+{"message":"folder is required","level":"error"}
+{"message":"folder is required","level":"error"}
+{"message":"Invalid note name '3' supplied","level":"error"}
+{"message":"Invalid note name '2' supplied","level":"error"}
+{"message":"Invalid note name '9' supplied","level":"error"}
+{"message":"Invalid note name '9' supplied","level":"error"}
+{"message":"Invalid note name '9' supplied","level":"error"}
+{"message":"Invalid note name '5' supplied","level":"error"}
+{"message":"Folder with id 12 created.","level":"info"}
+{"message":"Note with id 9 created.","level":"info"}
